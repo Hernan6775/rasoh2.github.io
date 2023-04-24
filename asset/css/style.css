@@ -1,6 +1,7 @@
 p {
   margin: 0;
   font-style: italic;
+  color: #218c74;
 }
 #fotoprincipal {
   background-image: url("/asset/imgs/console.jpg");
