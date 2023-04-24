@@ -14,8 +14,11 @@ body {
   padding: 12px;
   color: white;
 }
+#hitos {
+  color: white;
+}
 
-/* Area de desempeno */
+/* Area de desempeño */
 
 #Mis-trabajos .image-top {
   height: 250px;
